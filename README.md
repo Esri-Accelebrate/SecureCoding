@@ -1,4 +1,4 @@
-![Hands-on training at Esri provided by Accelebrate](https://deivu67oka01d.cloudfront.net/esri/esri_accelebrate.jpg)
+![Hands-on training at Esri provided by Accelebrate](https://deivu67oka01d.cloudfront.net/esri/esri_accelebrate4.jpg)
 
 # Secure Coding for Web Developers
 **2019 Esri Developer Summit - Pre-Summit Hands-on Training Mar 3, 2019**
