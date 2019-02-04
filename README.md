@@ -1,6 +1,7 @@
+![Hands-on training at Esri provided by Accelebrate](https://deivu67oka01d.cloudfront.net/esri/esri_accelebrate.jpg)
+
 # Secure Coding for Web Developers
 **2019 Esri Developer Summit - Pre-Summit Hands-on Training Mar 3-4, 2019**
-![Hands-on training at Esri provided by Accelebrate](https://deivu67oka01d.cloudfront.net/esri/esri_accelebrate.jpg)
 
 Developers directly explore common code vulnerabilities and how to mitigate them. Attendees get the opportunity to see real-world examples of vulnerabilities across a wide-variety of application types (web services, single-page applications (SPAs), and more). 
 
