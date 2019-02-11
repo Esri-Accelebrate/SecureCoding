@@ -13,8 +13,9 @@ Prior experience with HTML, CSS, JavaScript, and SQL is presumed.
 
 All downloads and installs must be done before class to ensure an on-time start.
 
-- Google Chrome and any other modern web browsers with which you would like to test
-- JavaScript IDE of your choice
+- Modern Web Browser with Integrated Developer Tools (Chrome recommended)
+- Text Editor or IDE for editing HTML and JavaScript
+- Optional – Postman Application (free download from www.getpostman.com)
 
 ## Class Outline
 - Introduction
