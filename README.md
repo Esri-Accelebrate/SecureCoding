@@ -11,9 +11,10 @@ Prior experience with HTML, CSS, JavaScript, and SQL is presumed.
 
 ## Technical Setup and Requirements
 
+All downloads and installs must be done before class to ensure an on-time start.
+
 - Google Chrome and any other modern web browsers with which you would like to test
 - JavaScript IDE of your choice
-- Related lab files
 
 ## Class Outline
 - Introduction
