@@ -51,3 +51,8 @@ All downloads and installs must be done before class to ensure an on-time start.
   - Preflighted Requests
   - Configuration
   - Debugging CORS Issues
+
+## Links
+- [OWASP Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- [WebGoat Homepage](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+- [WebGoat Classroom Instance](http://3.91.78.49:8080/WebGoat)
