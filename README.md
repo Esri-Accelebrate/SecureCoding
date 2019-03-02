@@ -54,5 +54,11 @@ All downloads and installs must be done before class to ensure an on-time start.
 
 ## Links
 - [OWASP Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- [MDN HTTP Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [WebGoat Homepage](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 - [WebGoat Classroom Instance](http://3.91.78.49:8080/WebGoat)
+- [Static Application Testing Tools](https://www.owasp.org/index.php/Source_Code_Analysis_Tools)
+- [Dynamic Application Security Testing Tools](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)
+- [Injection Prevention Checklist](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)
+- [Content Security Policy Reference](https://content-security-policy.com)
+- [CSRF Prevention Checklist](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet)
