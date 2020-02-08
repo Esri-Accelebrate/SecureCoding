@@ -3,7 +3,7 @@
 # Secure Coding for Web Developers
 **2020 Esri Developer Summit - Pre-Summit Hands-on Training Mar 8-9, 2020**
 
-Developers directly explore common code vulnerabilities and how to mitigate them. Attendees get the opportunity to see real-world examples of vulnerabilities across a wide-variety of application types (web services, single-page applications (SPAs), and more). 
+In this intensive introduction to web application security, developers directly explore common code vulnerabilities and how to mitigate them. Attendees get the opportunity to see real-world examples of vulnerabilities across a wide-variety of application types (web services, single-page applications (SPAs), and more).
 
 ## Class Prerequisites
 
