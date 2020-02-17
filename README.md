@@ -18,39 +18,57 @@ All downloads and installs must be done before class to ensure an on-time start.
 - Optional – Postman Application (free download from www.getpostman.com)
 
 ## Class Outline
-- Introduction
-  - OWASP Top Ten Vulnerabilities
-  - HTTP Headers and Verbs
-  - Web Debugging Proxies and Tools
-  - Cryptography
+- Threat Modeling
+  - Infrastructure and Application Profiling
+  - Identifying Attack Vectors
+  - Reducing Attack Surface Area
+  - Principle of Least Privilege
+- Review of HTTP 
+  - Headers and Verbs
+  - State Management
+  - Web Debugging Proxies
+  - Protocol Analyzers
+- OWASP Top Ten 
+  - Introduction
+  - Current Top Ten List
 - Injection
-  - Trustworthiness of User Supplied Data
+  - Introduction
   - SQL Injection
-  - OS Command Injection
-  - Header-Based Injection
-  - JSON, SOAP, and XML Data Inputs
-  - Positive “Whitelist” Input Validation
-  - Static Source (SAST) and Dynamic Application Test Tools (DAST) 
-  - Injection Prevention Checklist
+  - Over Posting
+  - Hands-On Exercises
+  - Countermeasures
 - Cross-Site Scripting (XSS)
-  - Reflected XSS
-  - Stored XSS
-  - DOM XSS
-  - What an Attacker Can Accomplish
-  - Encoding Output
-  - Content Security Policy (CSP)
-  - Testing for XSS
-  - XSS Prevention Checklist
-- Cross-Site Request Forgery (CSRF)
-  - Anatomy of an Attack
-  - CSRF Combined with Other Vulnerabilities
-  - Anti-Forgery Tokens
-  - CSRF Prevention Checklist
-- Cross-Origin Resource Sharing (CORS)
-  - Overview
-  - Preflighted Requests
+  - Stored and Reflected XSS
+  - Consequences
+  - Hands-On Exercises
+  - Prevention
+- Cryptography 
+  - Symmetric and Asymmetric Encryption
+  - Cryptographic Hash Functions
+  - Keyed-Hash Message Authentication Codes (HMAC)
+  - Digital Signatures
+  - Digital Certificates
+  - SSL and TLS
+- HTTPS and HSTS
+  - Confidentiality and Authenticity
+  - Strict-Transport-Security Header
+  - Best Practices
+  - HSTS Preload
+- Content Security Policy (CSP)
+  - Principles
+  - Client Support
   - Configuration
-  - Debugging CORS Issues
+  - Testing
+- Application Vulnerabilities 
+  - Sensitive Data Exposure
+  - Direct Object References
+  - Function Level Access Control
+  - Cross-Site Request Forgery (CSRF)
+  - Validating Redirects and Forwards
+  - XML External Entities (XXE)
+  - File Upload Security
+  - Considerations for Single Page Applications (SPAs)
+- Conclusion
 
 ## Links
 - [OWASP Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
