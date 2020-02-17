@@ -18,63 +18,64 @@ All downloads and installs must be done before class to ensure an on-time start.
 - Optional – Postman Application (free download from www.getpostman.com)
 
 ## Class Outline
-- Threat Modeling
-  - Infrastructure and Application Profiling
-  - Identifying Attack Vectors
-  - Reducing Attack Surface Area
-  - Principle of Least Privilege
+- Introduction
+  - Industry Statistics
+  - Popularity Factors
+  - Web Application Weak Spots
 - Review of HTTP 
   - Headers and Verbs
   - State Management
-  - Web Debugging Proxies
   - Protocol Analyzers
-- OWASP Top Ten 
-  - Introduction
-  - Current Top Ten List
-- Injection
-  - Introduction
-  - SQL Injection
-  - Over Posting
-  - Hands-On Exercises
+- Profiling
+  - Organizational Profiling
+  - Infrastructure Profiling
+  - Footprinting, Scanning, and Fingerprinting
+  - Application Profiling
+  - Anonymity
   - Countermeasures
-- Cross-Site Scripting (XSS)
-  - Stored and Reflected XSS
-  - Consequences
-  - Hands-On Exercises
-  - Prevention
-- Cryptography 
-  - Symmetric and Asymmetric Encryption
+- Information Security
+  - Data Sensitivity
+  - Objectives
+  - Threats
+  - Vulnerabilities
+  - Trust Boundries
+  - Continuous Review
+  - Finding the Balance
+- OWASP Top Ten 
+- Cryptography
+  - Encryption
+  - Symmetric Encryption
+  - Asymmetric Encryption
   - Cryptographic Hash Functions
-  - Keyed-Hash Message Authentication Codes (HMAC)
+  - Keyed-Hash Message Authentication Code (HMAC)
   - Digital Signatures
   - Digital Certificates
-  - SSL and TLS
-- HTTPS and HSTS
-  - Confidentiality and Authenticity
-  - Strict-Transport-Security Header
-  - Best Practices
-  - HSTS Preload
+  - SSL, TLS, and HTTPS
+- Secrets Management
+- Injection
+- Sensitive Data Exposure
+- XML External Entities (XEE)
+- Broken Access Control
+  - Account Management
+  - Function-Level Access Control
+  - Insecure Direct Object References
+- Security Misconfiguration
+- Cross-Site Request Forgery (CSRF)
+- Cross-Site Scripting (XSS)
 - Content Security Policy (CSP)
-  - Principles
-  - Client Support
-  - Configuration
-  - Testing
-- Application Vulnerabilities 
-  - Sensitive Data Exposure
-  - Direct Object References
-  - Function Level Access Control
-  - Cross-Site Request Forgery (CSRF)
-  - Validating Redirects and Forwards
-  - XML External Entities (XXE)
-  - File Upload Security
-  - Considerations for Single Page Applications (SPAs)
+- Insecure Deserialization
+- Component Vulnerabilities
+- Logging and Monitoring
+- Unvalidated Redirects and Forwards
+- Cross-Origin Resource Sharing (CORS)
+- Authentication Fundamentals
+- Authentication Protocols
+- OAuth2 and OpenID Connect
 - Conclusion
 
 ## Links
 - [OWASP Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [MDN HTTP Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [WebGoat Homepage](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
-- [WebGoat Classroom Instance](http://3.91.78.49:8080/WebGoat)
 - [Static Application Testing Tools](https://www.owasp.org/index.php/Source_Code_Analysis_Tools)
 - [Dynamic Application Security Testing Tools](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)
 - [Injection Prevention Checklist](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)
